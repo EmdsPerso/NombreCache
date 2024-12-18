@@ -7,6 +7,10 @@ namespace NombreCache
     /// </summary>
     class Program
     {
+        /// <summary>
+        /// Méthode de lancement de l'application
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             // déclaration
