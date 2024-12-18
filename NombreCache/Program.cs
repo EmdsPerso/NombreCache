@@ -4,6 +4,7 @@ namespace NombreCache
 {
     /// <summary>
     /// Jeu du nombre caché
+    /// auteur : Emds
     /// </summary>
     class Program
     {
